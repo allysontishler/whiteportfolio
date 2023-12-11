@@ -12,6 +12,10 @@ html, body {
     padding-left: 25px;
 }
 
+.far-left {
+    padding-top: 50px;
+}
+
 .top-nav {
     display: flex;
     justify-content: flex-end;
