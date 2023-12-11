@@ -15,8 +15,10 @@ html {
     justify-content: flex-end;
     align-items: center;
     box-sizing: border-box;
-    margin-left: 30px;
+    margin-left: 0;
     font-size: 2em;
+    padding-left: 250px;
+    padding-right: 50px;
 }
 
 .nav-link {
@@ -24,6 +26,10 @@ html {
     font-size: 0.5em;
     color: #000000;
     margin-left: 20px;
+}
+
+.right-link {
+    margin-left: 40px;
 }
 
 body {
