@@ -40,13 +40,12 @@ body {
 
 .image-container {
     display: flex;
-    justify-content: center;
     margin: 0;
     position: relative;
 }
 img {
-    height: 50%;
-    width: 50%;
+    height: 60%;
+    width: 60%;
 }
 
 .top-content, .bottom-content {
@@ -58,9 +57,9 @@ img {
 }
 
 .top-content {
-    top: 30%;
+    top: 5%;
 }
 
 .bottom-content {
-    bottom: 30%;
+    bottom: 75%;
 }
