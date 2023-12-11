@@ -36,12 +36,14 @@ body {
 
 .content {
     position: relative;
+    width: 100%;
 }
 
 .image-container {
     display: flex;
     margin: 0;
-    position: relative;
+    align-items: center;
+    height: 60vh;
     justify-content: center;
 }
 
@@ -54,15 +56,17 @@ img {
     color: #200282;
     padding-left: 200px;
     position: absolute;
-    text-align: center;
-    width: 100%;
-    left: 0;
+    width: 500%;
+    padding: 20px;
 }
 
 .top-content {
-    top: 30%;
+    top: 20%;
+    left: 10%;
 }
 
 .bottom-content {
     bottom: 30%;
+    right: 10%;
+    text-align: right;
 }
