@@ -6,7 +6,7 @@ html {
     display: flex;
     text-align: left;
     font-size: 1.5em;
-    padding-top: 10px;
+    padding-top: 25px;
     padding-left: 25px;
 }
 
@@ -16,7 +16,7 @@ html {
     align-items: center;
     box-sizing: border-box;
     margin: 0;
-    padding-left: 100px;
+    padding-left: 250px;
     padding-right: 25px;
     font-size: 1.5em;
 }
@@ -34,30 +34,33 @@ body {
     background: #ffffff;
 }
 
+.content {
+    position: relative;
+}
+
 .image-container {
     display: flex;
     justify-content: center;
     margin: 0;
-    padding: 0;
+    position: relative;
 }
 img {
     height: 50%;
     width: 50%;
 }
 
-.top-content h1 {
+.top-content, .bottom-content {
     color: #200282;
-    padding-top: 100px;
-    padding-left: 500px;
-    padding-bottom: 0;
-    margin: 0;
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    left: 0;
 }
 
-.bottom-content p {
-    color: #200282;
-    padding-bottom: 700px;
-    padding-left: 1000px;
-    padding-top: 0;
-    margin: 0;
+.top-content {
+    top: 30%;
 }
 
+.bottom-content {
+    bottom: 30%;
+}
