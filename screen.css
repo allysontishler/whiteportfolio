@@ -24,15 +24,14 @@ html {
 body {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
     background: #ffffff;
 }
 
+.image-container {
+    display: flex;
+    justify-content: center;
+}
 img {
-    box-align: center;
-    float: center;
     height: 50%;
     width: 50%;
 }
