@@ -42,16 +42,17 @@ body {
     display: flex;
     margin: 0;
     position: relative;
+    justify-content: center;
 }
+
 img {
     height: 60%;
     width: 60%;
-    justify-content: center;
 }
 
 .top-content, .bottom-content {
     color: #200282;
-    text-align: center;
+    padding-left: 200px;
     position: absolute;
     width: 100%;
     left: 0;
