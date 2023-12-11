@@ -46,6 +46,7 @@ body {
 img {
     height: 60%;
     width: 60%;
+    justify-content: center;
 }
 
 .top-content, .bottom-content {
