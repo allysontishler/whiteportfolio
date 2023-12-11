@@ -5,7 +5,7 @@ html {
 .home-nav {
     display: flex;
     text-align: left;
-    font-size: 1.5em;
+    font-size: 2em;
     padding-top: 25px;
     padding-left: 25px;
 }
@@ -17,8 +17,8 @@ html {
     box-sizing: border-box;
     margin: 0;
     padding-left: 250px;
-    padding-right: 25px;
-    font-size: 1.5em;
+    padding-right: 50px;
+    font-size: 2em;
 }
 
 .nav-link {
@@ -56,13 +56,15 @@ img {
     position: absolute;
     width: 100%;
     left: 0;
+    font-size: 3em;
 }
 
 .top-content {
-    top: 20%;
-    padding-left: 250px;
+    top: 22%;
+    padding-left: 500px;
 }
 
 .bottom-content {
     bottom: 45%;
+    padding-left: 700px;
 }
