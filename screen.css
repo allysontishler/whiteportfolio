@@ -10,6 +10,7 @@ html, body {
     text-align: left;
     font-size: 1em;
     padding-left: 25px;
+    padding-top: 45px;
 }
 
 .top-nav {
@@ -75,12 +76,12 @@ img {
 }
 
 .top-content {
-    top: 20%;
+    top: 17%;
     padding-left: 250px;
     position: absolute;
 }
 
 .bottom-content {
-    bottom: 23%;
-    padding-left: 800px;
+    bottom: 27%;
+    padding-left: 650px;
 }
