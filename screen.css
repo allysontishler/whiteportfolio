@@ -27,10 +27,6 @@ body {
     background: #ffffff;
 }
 
-.content {
-    display: flex;
-}
-
 .image-container {
     display: flex;
     justify-content: center;
