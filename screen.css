@@ -54,7 +54,7 @@ img {
 .top-content, .bottom-content {
     color: #200282;
     position: absolute;
-    width: 100%;
+    width: auto;
     left: 0;
     font-size: 2.4em;
 }
