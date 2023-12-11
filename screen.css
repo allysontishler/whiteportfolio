@@ -52,11 +52,10 @@ body {
     margin: 0;
     position: relative;
     justify-content: center;
-    height: auto;
-}
+ }
 
 img {
-    height: auto;
+    height: 60%;
     width: 60%;
 }
 
