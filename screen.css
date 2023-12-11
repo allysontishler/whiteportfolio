@@ -63,6 +63,7 @@ html, body {
 img {
     max-width: 70%;
     height: auto;
+    padding-top: 8.5em;
 }
 
 .top-content, .bottom-content {
