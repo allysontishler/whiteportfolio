@@ -10,10 +10,7 @@ html, body {
     text-align: left;
     font-size: 1em;
     padding-left: 25px;
-}
-
-.far-left {
-    padding-top: 50px;
+    margin-top: 50px;
 }
 
 .top-nav {
