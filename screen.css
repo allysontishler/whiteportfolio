@@ -7,22 +7,19 @@ html, body {
 
 .home-nav {
     display: flex;
-    text-align: left;
+    align-items: center;
     font-size: 1em;
     padding-left: 25px;
-    padding-top: 20px;
-    position: relative;
 }
 
 .top-nav {
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    margin-left: 0;
+    margin-left: auto;
     font-size: 1em;
-    padding-left: 250px;
+    padding-left: 50px;
     padding-right: 50px;
-    padding-top: 0;
 }
 
 .nav-link {
