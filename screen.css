@@ -27,6 +27,7 @@ body {
 }
 
 img {
+    box-align: center;
     float: center;
     height: 50%;
     width: 50%;
