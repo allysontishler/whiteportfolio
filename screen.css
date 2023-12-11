@@ -55,14 +55,14 @@ img {
     color: #200282;
     position: absolute;
     width: 100%;
-    text-align: center;
     left: 0;
 }
 
 .top-content {
     top: 20%;
+    padding-left: 250px;
 }
 
 .bottom-content {
-    bottom: 30%;
+    bottom: 75%;
 }
