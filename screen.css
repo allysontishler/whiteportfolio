@@ -28,8 +28,12 @@ html {
     margin-left: 20px;
 }
 
+.center-link {
+    margin-left: 100px;
+}
+
 .right-link {
-    margin-left: 40px;
+    margin-left: 100px;
 }
 
 body {
