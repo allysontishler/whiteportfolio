@@ -8,7 +8,7 @@ html, body {
 .home-nav {
     display: flex;
     text-align: left;
-    font-size: 2em;
+    font-size: 1em;
     padding-top: 45px;
     padding-left: 25px;
 }
@@ -19,7 +19,7 @@ html, body {
     align-items: center;
     box-sizing: border-box;
     margin-left: 0;
-    font-size: 2em;
+    font-size: 1em;
     padding-left: 250px;
     padding-right: 50px;
 }
@@ -76,7 +76,7 @@ img {
 
 .top-content {
     top: 20%;
-    padding-left: 500px;
+    padding-left: 250px;
 }
 
 .bottom-content {
