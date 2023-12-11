@@ -54,14 +54,15 @@ img {
     color: #200282;
     padding-left: 200px;
     position: absolute;
+    text-align: center;
     width: 100%;
     left: 0;
 }
 
 .top-content {
-    top: 5%;
+    top: 30%;
 }
 
 .bottom-content {
-    bottom: 75%;
+    bottom: 30%;
 }
