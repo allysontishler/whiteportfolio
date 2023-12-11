@@ -9,7 +9,6 @@ html, body {
     display: flex;
     text-align: left;
     font-size: 1em;
-    padding-top: 45px;
     padding-left: 25px;
 }
 
@@ -17,7 +16,6 @@ html, body {
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    box-sizing: border-box;
     margin-left: 0;
     font-size: 1em;
     padding-left: 250px;
