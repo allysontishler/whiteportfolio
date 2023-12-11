@@ -10,8 +10,8 @@ html {
 
 .top-nav {
     display: flex;
-    justify-content: space-around;
-    align-items: right;
+    justify-content: flex-end;
+    align-items: center;
     box-sizing: border-box;
     margin: 0;
     padding-left: 50px;
@@ -22,6 +22,7 @@ html {
     text-decoration: none;
     font-size: 0.5em;
     color: #000000;
+    margin: 0 10px;
 }
 
 body {
@@ -35,11 +36,10 @@ body {
     justify-content: center;
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
 }
 img {
-    height: auto;
-    max-width: 100%;
+    height: 50%;
+    width: 50%;
 }
 
 .top-content {
