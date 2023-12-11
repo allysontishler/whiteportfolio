@@ -6,6 +6,8 @@ html {
     display: flex;
     text-align: left;
     font-size: 1.5em;
+    padding-top: 10px;
+    padding-left: 25px;
 }
 
 .top-nav {
@@ -14,7 +16,8 @@ html {
     align-items: center;
     box-sizing: border-box;
     margin: 0;
-    padding-left: 50px;
+    padding-left: 100px;
+    padding-right: 25px;
     font-size: 1.5em;
 }
 
@@ -42,17 +45,19 @@ img {
     width: 50%;
 }
 
-.top-content {
+.top-content h1 {
     color: #200282;
     padding-top: 100px;
     padding-left: 500px;
     padding-bottom: 0;
+    margin: 0;
 }
 
-.bottom-content {
+.bottom-content p {
     color: #200282;
     padding-bottom: 700px;
     padding-left: 1000px;
     padding-top: 0;
+    margin: 0;
 }
 
