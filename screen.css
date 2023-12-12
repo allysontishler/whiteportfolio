@@ -73,6 +73,20 @@ img {
     padding-top: 8.5em;
 }
 
+.images {
+    position: absolute;
+    bottom: 1px;
+    left: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.images img {
+    width: 40px;
+    height: auto;
+    margin-right: 10px;
+}
+
 .top-content, .bottom-content {
     color: #200282;
     position: absolute;
