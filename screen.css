@@ -102,17 +102,20 @@ img {
     display: flex;
     align-items: center;
     padding-left: 230px;
-    padding-top: 200px;
-    text-decoration: none;
-    color: #ffffff;
 }
 
 .textlink1 {
     padding-right: 10px;
+    color: #ffffff;
+    text-decoration: none;
+    padding-top: 200px;
 }
 
 .textlink2 {
     padding-left: 25px;
+    color: #ffffff;
+    text-decoration: none;
+    padding-top: 200px;
 }
 
 .top-content, .bottom-content {
