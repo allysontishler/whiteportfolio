@@ -84,13 +84,13 @@ img {
 }
 
 .images img {
-    width: 5%;
+    width: 10%;
     height: auto;
     margin-right: 10px;
 }
 
 .resizable {
-    width: 25%px;
+    width: 40%px;
     height: auto;
 }
 
