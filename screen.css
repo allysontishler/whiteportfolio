@@ -107,7 +107,9 @@ img {
     color: #000000;
 }
 
-
+.textlink1 {
+    padding-right: 20px;
+}
 
 .top-content, .bottom-content {
     color: #200282;
