@@ -2,7 +2,7 @@ html, body {
     background: #ffffff;
     margin: 0;
     padding: 0;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .nav-bar-container {
@@ -10,6 +10,7 @@ html, body {
     justify-content: space-between;
     align-items: center;
     padding: 10px;
+    padding-top: 20px;
 }
 
 .home-nav {
@@ -25,7 +26,7 @@ html, body {
     align-items: center;
     margin-left: auto;
     font-size: 1em;
-    padding-left: 50px;
+    padding-left: 27px;
     padding-right: 50px;
 }
 
@@ -78,7 +79,7 @@ img {
     width: auto;
     height: auto;
     left: 0;
-    font-size: 2.4em;
+    font-size: 2em;
 }
 
 .top-content {
@@ -88,6 +89,6 @@ img {
 }
 
 .bottom-content {
-    bottom: 0.001%;
+    bottom: 20%;
     padding-left: 650px;
 }
