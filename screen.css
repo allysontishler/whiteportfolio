@@ -79,7 +79,7 @@ img {
     width: auto;
     height: auto;
     left: 0;
-    font-size: 2em;
+    font-size: 1.7em;
 }
 
 .top-content {
@@ -89,6 +89,6 @@ img {
 }
 
 .bottom-content {
-    bottom: 20%;
+    bottom: 10px;
     padding-left: 650px;
 }
