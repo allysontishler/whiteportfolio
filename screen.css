@@ -102,13 +102,13 @@ img {
     display: flex;
     align-items: center;
     padding-left: 230px;
-    padding-top: 250px;
+    padding-top: 230px;
     text-decoration: none;
     color: #000000;
 }
 
 .textlink1 {
-    padding-right: 20px;
+    padding-right: 10px;
 }
 
 .textlink2 {
