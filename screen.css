@@ -111,6 +111,10 @@ img {
     padding-right: 20px;
 }
 
+.textlink2 {
+    padding-left: 15px;
+}
+
 .top-content, .bottom-content {
     color: #200282;
     position: absolute;
