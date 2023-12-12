@@ -80,11 +80,11 @@ img {
     display: flex;
     align-items: center;
     padding-left: 260px;
-    padding-top: 125px;
+    padding-top: 160px;
 }
 
 .resizable1 {
-    width: 22%;
+    width: 20%;
     height: auto;
     margin-right: 10px;
 }
