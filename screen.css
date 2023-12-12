@@ -83,12 +83,12 @@ img {
 }
 
 .top-content {
-    top: 12%;
+    top: 15%;
     padding-left: 250px;
     position: absolute;
 }
 
 .bottom-content {
-    bottom: 10px;
+    bottom: 1px;
     padding-left: 650px;
 }
