@@ -83,10 +83,6 @@ img {
     padding-top: 250px;
 }
 
-.image-link {
-    display: inline-block;
-    text-decoration: none;
-}
 
 .resizable1 {
     width: 13%;
@@ -98,6 +94,20 @@ img {
     width: 6%;
     height: auto;
 }
+
+.links {
+    position: absolute;
+    bottom: 1px;
+    left: 10px;
+    display: flex;
+    align-items: center;
+    padding-left: 230px;
+    padding-top: 250px;
+    text-decoration: none;
+    color: #000000;
+}
+
+
 
 .top-content, .bottom-content {
     color: #200282;
