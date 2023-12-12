@@ -79,18 +79,18 @@ img {
     left: 10px;
     display: flex;
     align-items: center;
-    padding-left: 260px;
+    padding-left: 250px;
     padding-top: 400px;
 }
 
 .resizable1 {
-    width: 18%;
+    width: 16%;
     height: auto;
     margin-right: 10px;
 }
 
 .resizable2 {
-    width: 6%;
+    width: 4%;
     height: auto;
 }
 
