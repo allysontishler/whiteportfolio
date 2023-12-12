@@ -80,16 +80,17 @@ img {
     display: flex;
     align-items: center;
     padding-left: 260px;
+    padding-top: 75px;
 }
 
 .images img {
-    width: 10%;
+    width: 5%;
     height: auto;
     margin-right: 10px;
 }
 
 .resizable {
-    width: 15%px;
+    width: 25%px;
     height: auto;
 }
 
