@@ -83,14 +83,14 @@ img {
     padding-top: 100px;
 }
 
-.images img {
-    width: 10%;
+.resizable1 {
+    width: 100%;
     height: auto;
     margin-right: 10px;
 }
 
-.resizable {
-    width: 100%;
+.resizable2 {
+    width: 10%;
     height: auto;
 }
 
