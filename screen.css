@@ -80,7 +80,7 @@ img {
     display: flex;
     align-items: center;
     padding-left: 260px;
-    padding-top: 75px;
+    padding-top: 100px;
 }
 
 .images img {
@@ -90,7 +90,7 @@ img {
 }
 
 .resizable {
-    width: 30%;
+    width: 50%;
     height: auto;
 }
 
