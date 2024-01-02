@@ -210,18 +210,6 @@ img {
     height: auto;
 }
 
-.header-logo {
-    display: flex;
-    align-items: center;
-    margin-bottom: 20px;
-}
-
-.header-logo img {
-    margin-right: 10px;
-    max-width: 40px;
-    height: auto;
-}
-
 .text-section {
     flex: 1;
     padding: 20px;
