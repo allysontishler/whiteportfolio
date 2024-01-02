@@ -203,6 +203,7 @@ img {
     flex: 1;
     padding: 20px;
     padding-left: 75px;
+    padding-bottom: 75px;
 }
 
 .image-section img {
@@ -213,10 +214,11 @@ img {
 .text-section {
     flex: 1;
     padding: 20px;
+    padding-right: 75px;
 }
 
 .text-section h2 {
-    font-size: 30px;
+    font-size: 50px;
     font-weight: 600;
     max-width: 650px;
 }
