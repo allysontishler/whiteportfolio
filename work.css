@@ -67,8 +67,7 @@ html, body {
 }
 
 
-.slide2 {
-    background: linear-gradient (454deg, #804076, #ff53fc);
+.slide1 {
     display: flex;
     justify-content: center;
     align-items: center;
