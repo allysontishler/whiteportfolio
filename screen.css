@@ -193,10 +193,11 @@ img {
 .image-section {
     flex: 1;
     padding: 20px;
+    padding-left: 40px;
 }
 
 .image-section img {
-    width: 50%;
+    width: 75%;
     height: auto;
 }
 
@@ -211,9 +212,17 @@ img {
     max-width: 650px;
 }
 
+.text-section h3 {
+    font-size: 25px;
+    font-weight: 500px;
+    max-width: 650px;
+}
+
 .text-section p {
     font-size: 20px;
     line-height: 1.6;
+    max-width: 650px;
+    font-weight: 600;
 }
 
 .slide2 {
