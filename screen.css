@@ -19,6 +19,7 @@ html, body {
     align-items: center;
     font-size: 1em;
     padding-left: 25px;
+    position: sticky;
 }
 
 .top-nav {
@@ -29,6 +30,7 @@ html, body {
     font-size: 1em;
     padding-left: 27px;
     padding-right: 50px;
+    position: sticky;
 }
 
 .nav-link {
@@ -36,14 +38,17 @@ html, body {
     font-size: 1em;
     color: #696969;
     margin-left: 1em;
+    position: sticky;
 }
 
 .center-link {
     margin-left: 200px;
+    position: sticky;
 }
 
 .right-link {
     margin-left: 200px;
+    position: sticky;
 }
 
 @media screen and (max-width: 768px) {
@@ -187,14 +192,17 @@ img {
 
 .slide2 img {
     width: 350px;
+    align-items: left;
 }
 
 .slide2 h2 {
     font-size: 30px;
     font-weight: 600;
     max-width: 650px;
+    align-items: right;
 }
 
 .slide2 {
     background: linear-gradient (454deg, #804076, #ff53fc);
+    display: flex;
 }
