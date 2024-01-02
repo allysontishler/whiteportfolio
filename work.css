@@ -81,7 +81,7 @@ html, body {
     padding-bottom: 75px;
 }
 
-.image-section img {
+.image-section a {
     width: 75%;
     height: auto;
 }
