@@ -202,7 +202,7 @@ img {
 .image-section {
     flex: 1;
     padding: 20px;
-    padding-left: 75px;
+    padding-left: 100px;
     padding-bottom: 75px;
 }
 
@@ -221,6 +221,7 @@ img {
     font-size: 50px;
     font-weight: 600;
     max-width: 650px;
+    color: #FF7FA5;
 }
 
 .text-section h3 {
