@@ -1,0 +1,138 @@
+html, body {
+    background: #ffffff;
+    margin: 0;
+    padding: 0;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.nav-bar-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    padding-top: 20px;
+    position: sticky;
+}
+
+.home-nav {
+    display: flex;
+    align-items: center;
+    font-size: 1em;
+    padding-left: 25px;
+    position: sticky;
+}
+
+.top-nav {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-left: auto;
+    font-size: 1em;
+    padding-left: 27px;
+    padding-right: 50px;
+    position: sticky;
+}
+
+.nav-link {
+    text-decoration: none;
+    font-size: 1em;
+    color: #696969;
+    margin-left: 1em;
+    position: sticky;
+}
+
+.center-link {
+    margin-left: 200px;
+    position: sticky;
+}
+
+.right-link {
+    margin-left: 200px;
+    position: sticky;
+}
+
+@media screen and (max-width: 768px) {
+    .home-nav, .top-nav {
+        flex-direction: column;
+        align-items: flex-start;
+        font-size: 1.5em;
+        padding: 10px;
+    }
+}
+
+.image-section {
+    max-width: 100%;
+    height: auto;
+}
+
+.text-section {
+    max-width: 50%;
+}
+
+.text-section h1 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #000000;
+}
+
+.text-section p {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #696969;
+}
+
+
+.container {
+    width: 100%;
+    height: 100vh;
+}
+
+.slides {
+    width: 100%;
+    height: 100vh;
+}
+
+
+.slide1 {
+    background: linear-gradient (454deg, #804076, #ff53fc);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.image-section {
+    flex: 1;
+    padding: 20px;
+    padding-left: 100px;
+    padding-bottom: 75px;
+}
+
+.image-section img {
+    width: 75%;
+    height: auto;
+}
+
+.text-section {
+    flex: 1;
+    padding: 20px;
+    padding-right: 75px;
+}
+
+.text-section h2 {
+    font-size: 50px;
+    font-weight: 600;
+    max-width: 650px;
+    color: #FF7FA5;
+}
+
+.text-section h3 {
+    font-size: 25px;
+    font-weight: 600px;
+    max-width: 650px;
+}
+
+.text-section p {
+    font-size: 20px;
+    line-height: 1.6;
+    max-width: 650px;
+    font-weight: 600;
+}
