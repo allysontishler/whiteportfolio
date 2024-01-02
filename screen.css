@@ -190,19 +190,35 @@ img {
     height: 100vh;
 }
 
-.slide2 img {
-    width: 350px;
-    align-items: left;
+.image-section {
+    flex: 1;
+    padding: 20px;
 }
 
-.slide2 h2 {
+.image-section img {
+    width: 50%;
+    height: auto;
+}
+
+.text-section {
+    flex: 1;
+    padding: 20px;
+}
+
+.text-section h2 {
     font-size: 30px;
     font-weight: 600;
     max-width: 650px;
-    align-items: right;
+}
+
+.text-section p {
+    font-size: 20px;
+    line-height: 1.6;
 }
 
 .slide2 {
     background: linear-gradient (454deg, #804076, #ff53fc);
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
