@@ -169,8 +169,9 @@ html, body {
     margin-left: 0;
     color: #FF7FA5;
     padding-right: 450px;
-    font-size: 60px;
-    font-weight: 500;
+    font-size: 50px;
+    font-weight: 600;
+    max-width: 650px;
 }
 
 .project-content {
