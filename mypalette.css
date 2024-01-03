@@ -152,7 +152,6 @@ html, body {
     padding-top: 20px;
     padding-left: 75px;
     padding-right: 75px;
-    max-width: 1000px;
 }
 
 .project-section {
@@ -168,9 +167,8 @@ html, body {
 
 .project-header h2 {
     font-size: 24px;
-    margin-left: 0;
+    margin: 0;
     color: #FF7FA5;
-    padding-right: 350px;
     font-size: 50px;
     font-weight: 600;
 }
