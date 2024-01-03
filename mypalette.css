@@ -146,6 +146,8 @@ html, body {
     align-items: center;
     justify-content: center;
     height: 100vh;
+    background: #ffd4e1;
+    padding-top: 50px;
 }
 
 .project-section {
