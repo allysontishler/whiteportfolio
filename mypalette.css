@@ -149,9 +149,6 @@ html, body {
     background: #ffd4e1;
     width: 100%;
     height: 75vh;
-    padding-top: 20px;
-    padding-left: 40px;
-    padding-right: 40px;
 }
 
 .project-section {
@@ -171,6 +168,9 @@ html, body {
     color: #FF7FA5;
     font-size: 50px;
     font-weight: 600;
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-right: 200px;
 }
 
 .project-content {
@@ -178,6 +178,7 @@ html, body {
     text-align: left;
     margin-top: 0;
     font-size: 20px;
-    max-width: 450px;
+    padding-right: 40px;
+    padding-top: 40px;
 }
 
