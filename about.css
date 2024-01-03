@@ -120,14 +120,15 @@ html, body {
     display: flex;
     flex-direction: column;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background: #c2ecff;
+    background: #E4F6FF;
 }
 
 .slide2 h2 {
     font-weight: 600px;
     font-size: 50px;
     align-items: center;
-    padding-left: 550px;
+    padding-left: 475px;
+    color: ##A8C0FF;
 }
 
 .slide2 h3 {
@@ -136,6 +137,7 @@ html, body {
     padding-left: 75px;
     padding-right: 75px;
     padding-bottom: 0;
+    color: #A8C0FF;
 }
 
 .slide2 h4 {
@@ -144,6 +146,7 @@ html, body {
     padding-left: 75px;
     padding-right: 75px;
     padding-bottom: 0;
+    color: #A8C0FF;
 }
 
 .slide2 p {
@@ -152,4 +155,5 @@ html, body {
     padding-left: 75px;
     padding-right: 75px;
     padding-bottom: 0;
+    color: ##BDBDBD;
 }
