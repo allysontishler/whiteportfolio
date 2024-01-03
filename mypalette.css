@@ -139,3 +139,29 @@ html, body {
     margin: 0 5px;
     text-align: center;
 }
+
+.container2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.project-section {
+    display: flex;
+    width: 80%;
+}
+
+.project-header {
+    flex: 1;
+}
+
+.project-header h2 {
+    font-size: 24px;
+    margin-left: 20px;
+}
+
+.project-content {
+    margin-top: 0;
+}
