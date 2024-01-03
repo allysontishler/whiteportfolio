@@ -148,10 +148,6 @@ html, body {
     height: 100vh;
 }
 
-.slide2 {
-    background: #ffd4e1;
-}
-
 .project-section {
     display: flex;
     width: 80%;
