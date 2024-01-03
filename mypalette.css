@@ -163,7 +163,6 @@ html, body {
 }
 
 .project-header h2 {
-    font-size: 24px;
     margin: 0;
     color: #FF7FA5;
     font-size: 50px;
@@ -181,4 +180,31 @@ html, body {
     padding-right: 40px;
     padding-top: 40px;
 }
+
+.research-header h2 {
+    font-size: 50px;
+    padding-left: 40px;
+    color: #ffbe7a;
+    font-weight: 600;
+}
+
+.interview-header h3 {
+    font-size: 30px;
+    color: #000000;
+    padding-left: 40px;
+}
+
+.interview-header p {
+    padding-left: 40px;
+    color: #737373;
+    font-size: 20px;
+}
+
+.question-criteria h3 {
+    color: #000000;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+
 
