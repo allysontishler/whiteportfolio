@@ -189,15 +189,16 @@ html, body {
 }
 
 .interview-header h3 {
-    font-size: 30px;
-    color: #000000;
+    font-size: 33px;
+    color: #737373;
     padding-left: 40px;
+    padding-top: 20px;
 }
 
 .interview-header p {
     padding-left: 40px;
     color: #737373;
-    font-size: 20px;
+    font-size: 27px;
 }
 
 .question-criteria h3 {
@@ -206,6 +207,19 @@ html, body {
     justify-content: center;
     align-items: center;
     font-size: 30px;
+    padding-top: 20px;
 }
 
+.columns2 {
+    display: flex;
+    width: 100%;
+}
 
+.column2 {
+    flex: 1;
+    padding: 10px;
+    margin: 0 5px;
+    text-align: center;
+    font-size: 30px;
+    color: #ffbe7a;
+}
