@@ -128,7 +128,7 @@ html, body {
     font-size: 50px;
     align-items: center;
     padding-left: 475px;
-    color: #98b4fc;
+    color: #55c9ff;
 }
 
 .slide2 h3 {
@@ -146,7 +146,7 @@ html, body {
     padding-left: 120px;
     padding-right: 120px;
     padding-bottom: 0;
-    color: #A8C0FF;
+    color: #55c9ff;
 }
 
 .slide2 p {
@@ -155,5 +155,5 @@ html, body {
     padding-left: 120px;
     padding-right: 120px;
     padding-bottom: 0;
-    color: ##BDBDBD;
+    color: #BDBDBD;
 }
