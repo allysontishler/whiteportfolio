@@ -128,14 +128,14 @@ html, body {
     font-size: 50px;
     align-items: center;
     padding-left: 475px;
-    color: ##A8C0FF;
+    color: #98b4fc;
 }
 
 .slide2 h3 {
     align-items: flex-start;
     font-size: 30px;
-    padding-left: 75px;
-    padding-right: 75px;
+    padding-left: 120px;
+    padding-right: 120px;
     padding-bottom: 0;
     color: #A8C0FF;
 }
@@ -143,8 +143,8 @@ html, body {
 .slide2 h4 {
     align-items: flex-start;
     font-size: 20px;
-    padding-left: 75px;
-    padding-right: 75px;
+    padding-left: 120px;
+    padding-right: 120px;
     padding-bottom: 0;
     color: #A8C0FF;
 }
@@ -152,8 +152,8 @@ html, body {
 .slide2 p {
     align-items: flex-start;
     font-size: 15px;
-    padding-left: 75px;
-    padding-right: 75px;
+    padding-left: 120px;
+    padding-right: 120px;
     padding-bottom: 0;
     color: ##BDBDBD;
 }
