@@ -208,12 +208,12 @@ html, body {
     justify-content: center;
     align-items: center;
     font-size: 30px;
-    padding-top: 20px;
+    padding-top: 40px;
 }
 
 .columns2 {
     display: flex;
-    width: 100%;
+    width: 100%
 }
 
 .column2 {
@@ -223,6 +223,7 @@ html, body {
     text-align: center;
     font-size: 33px;
     color: #ffbe7a;
+    padding-bottom: 40px;
 }
 
 .insight-header h3 {
