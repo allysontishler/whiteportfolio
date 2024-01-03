@@ -196,7 +196,9 @@ html, body {
 }
 
 .interview-header p {
-    padding-left: 40px;
+    padding-left: 75px;
+    padding-right: 75px;
+    padding-bottom: 20px;
     color: #737373;
     font-size: 27px;
 }
@@ -220,12 +222,12 @@ html, body {
     padding: 10px;
     margin: 0 5px;
     text-align: center;
-    font-size: 30px;
+    font-size: 33px;
     color: #ffbe7a;
 }
 
 .insight-header h3 {
-    color: #000000;
+    color: #737373;
     font-size: 33px;
     display: flex;
     justify-content: center;
@@ -233,7 +235,7 @@ html, body {
     padding-top: 20px;
 }
 
-.insight-header img {
+.insight-image {
     width: 60%;
     height: auto;
     display: flex;
