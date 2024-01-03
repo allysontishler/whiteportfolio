@@ -126,6 +126,8 @@ html, body {
 .bottom-section {
     display: flex;
     justify-content: space-between;
+    padding-top: 0;
+    margin-top: 0;
 }
 
 .columns {
@@ -146,7 +148,6 @@ html, body {
     align-items: center;
     justify-content: center;
     background: #ffd4e1;
-    padding-top: 500px;
 }
 
 .project-section {
