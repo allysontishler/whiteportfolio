@@ -116,14 +116,10 @@ html, body {
     font-weight: 600;
 }
 
-#internshipdetails {
-    display: none;
-}
-
 .slide2 {
     display: flex;
     justify-content: center;
     align-items: center;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background: #55c9ff;
+    background: #9ee0ff;
 }
