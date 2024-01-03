@@ -168,10 +168,10 @@ html, body {
     font-size: 24px;
     margin-left: 0;
     color: #FF7FA5;
-    padding-right: 450px;
+    padding-right: 400px;
     font-size: 50px;
     font-weight: 600;
-    max-width: 650px;
+    max-width: 600px;
 }
 
 .project-content {
@@ -180,6 +180,6 @@ html, body {
     margin-top: 0;
     padding-right: 40px;
     padding-top: 40px;
-    font-size: 25px;
+    font-size: 15px;
 }
 
