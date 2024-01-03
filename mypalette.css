@@ -260,19 +260,19 @@ html, body {
 
 .container4 {
     width: 100%;
-    background: #000000;
 }
 
 .designprocess-header h2 {
     font-size: 50px;
     padding-left: 40px;
-    color: #D5E2FF;
+    color: #75A0FF;
     font-weight: 600;
+    padding-top: 20px;
 }
 
 .map-header h3 {
     font-size: 33px;
-    color: #ffffff;
+    color: #A1BEFD;
     padding-left: 40px;
     padding-top: 20px;
 }
@@ -290,7 +290,7 @@ html, body {
 
 .wireframe-header h3 {
     font-size: 33px;
-    color: #ffffff;
+    color: #A1BEFD;
     padding-left: 40px;
     padding-top: 20px;
 }
@@ -308,7 +308,7 @@ html, body {
 
 .design-header h3 {
     font-size: 33px;
-    color: #ffffff;
+    color: #A1BEFD;
     padding-left: 40px;
     padding-top: 20px;
 }
