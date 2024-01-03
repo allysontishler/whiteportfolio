@@ -147,7 +147,7 @@ html, body {
     align-items: flex-start;
     justify-content: flex-start;
     background: #ffd4e1;
-    width: 175vh;
+    width: 150vh;
     height: 75vh;
     padding-top: 25px;
     padding-left: 75px;
@@ -181,6 +181,6 @@ html, body {
     padding-right: 40px;
     padding-top: 40px;
     font-size: 20px;
-    max-width: 400px;
+    max-width: 500px;
 }
 
