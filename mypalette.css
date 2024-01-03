@@ -236,11 +236,14 @@ html, body {
 }
 
 .insight-image {
-    width: 60%;
-    height: auto;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.insight-image img {
+    width: 60%;
+    height: auto;
 }
 
 .container3 {
