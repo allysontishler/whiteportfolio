@@ -223,3 +223,17 @@ html, body {
     font-size: 30px;
     color: #ffbe7a;
 }
+
+.insight-header h3 {
+    color: #000000;
+    font-size: 33px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.insight-header img {
+    width: 50%;
+    height: auto;
+}
