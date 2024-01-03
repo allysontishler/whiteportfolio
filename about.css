@@ -127,22 +127,26 @@ html, body {
     font-weight: 600px;
     font-size: 50px;
     align-items: center;
+    padding-left: 400px;
 }
 
 .slide2 h3 {
     align-items: flex-start;
     font-size: 30px;
-    padding-left: 20px;
+    padding-left: 75px;
+    padding-right: 75px;
 }
 
 .slide2 h4 {
     align-items: flex-start;
     font-size: 20px;
-    padding-left: 20px;
+    padding-left: 75px;
+    padding-right: 75px;
 }
 
 .slide2 p {
     align-items: flex-start;
     font-size: 15px;
-    padding-left: 20px;
+    padding-left: 75px;
+    padding-right: 75px;
 }
