@@ -128,6 +128,7 @@ html, body {
     font-size: 50px;
     align-items: center;
     padding-left: 475px;
+    padding-top: 0;
     color: #55c9ff;
 }
 
@@ -137,6 +138,7 @@ html, body {
     padding-left: 120px;
     padding-right: 120px;
     padding-bottom: 0;
+    padding-top: 0;
     color: #21b2f6;
 }
 
@@ -146,7 +148,8 @@ html, body {
     padding-left: 120px;
     padding-right: 120px;
     padding-bottom: 0;
-    color: #55c9ff;
+    padding-top: 0;
+    color: #9d9d9d;
 }
 
 .slide2 p {
@@ -155,5 +158,5 @@ html, body {
     padding-left: 120px;
     padding-right: 120px;
     padding-bottom: 0;
-    color: #BDBDBD;
+    color: #696969;
 }
