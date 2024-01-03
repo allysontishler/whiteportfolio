@@ -144,8 +144,8 @@ html, body {
 .container2 {
     display: flex;
     flex-direction: column;
-    align-items: center;
-    justify-content: center;
+    align-items: flex-start;
+    justify-content: flex-start;
     background: #ffd4e1;
     width: 100%;
     height: 75vh;
@@ -155,6 +155,8 @@ html, body {
 .project-section {
     display: flex;
     width: 100%;
+    justify-content: space-between;
+    align-items: flex-start;
 }
 
 .project-header {
@@ -163,15 +165,13 @@ html, body {
 
 .project-header h2 {
     font-size: 24px;
-    margin-left: 20px;
+    margin-left: 0;
     color: #FF7FA5;
 }
 
 .project-content {
     flex: 2;
-}
-
-.project-content {
     text-align: left;
     margin-top: 0;
 }
+
