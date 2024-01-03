@@ -120,14 +120,14 @@ html, body {
     display: flex;
     flex-direction: column;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background: #9ee0ff;
+    background: #c2ecff;
 }
 
 .slide2 h2 {
     font-weight: 600px;
     font-size: 50px;
     align-items: center;
-    padding-left: 400px;
+    padding-left: 550px;
 }
 
 .slide2 h3 {
@@ -135,6 +135,7 @@ html, body {
     font-size: 30px;
     padding-left: 75px;
     padding-right: 75px;
+    padding-bottom: 0;
 }
 
 .slide2 h4 {
@@ -142,6 +143,7 @@ html, body {
     font-size: 20px;
     padding-left: 75px;
     padding-right: 75px;
+    padding-bottom: 0;
 }
 
 .slide2 p {
@@ -149,4 +151,5 @@ html, body {
     font-size: 15px;
     padding-left: 75px;
     padding-right: 75px;
+    padding-bottom: 0;
 }
