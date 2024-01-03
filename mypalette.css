@@ -157,6 +157,8 @@ html, body {
     width: 100%;
     justify-content: space-between;
     align-items: flex-start;
+    padding-right: 200px;
+    padding-top: 40px;
 }
 
 .project-header {
@@ -173,5 +175,8 @@ html, body {
     flex: 2;
     text-align: left;
     margin-top: 0;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
 }
 
