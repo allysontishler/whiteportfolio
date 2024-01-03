@@ -74,7 +74,6 @@ html, body {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     padding-top: 100px;
     padding-bottom: 75px;
 }
@@ -196,8 +195,8 @@ html, body {
 }
 
 .interview-header p {
-    padding-left: 75px;
-    padding-right: 75px;
+    padding-left: 115px;
+    padding-right: 115px;
     padding-bottom: 20px;
     color: #737373;
     font-size: 27px;
@@ -229,10 +228,16 @@ html, body {
 .insight-header h3 {
     color: #737373;
     font-size: 33px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    padding-left: 40px;
     padding-top: 20px;
+}
+
+.insight-header p {
+    color: #737373;
+    padding-left: 115px;
+    padding-right: 115px;
+    padding-bottom: 20px;
+    font-size: 27px;
 }
 
 .insight-image {
