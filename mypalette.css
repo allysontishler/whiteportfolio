@@ -146,6 +146,7 @@ html, body {
     align-items: center;
     justify-content: center;
     height: 100vh;
+    background: #ffd4e1;
 }
 
 .project-section {
@@ -159,11 +160,13 @@ html, body {
 
 .project-header h2 {
     font-size: 24px;
-    margin-left: 40px;
+    margin-left: 100px;
     padding-top: 200px;
+    color: #FF7FA5;
 }
 
 .project-content {
     margin-right: 40px;
     padding-top: 200px;
+    text-align: left;
 }
