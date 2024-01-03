@@ -274,7 +274,7 @@ html, body {
 .map-header h3 {
     font-size: 33px;
     color: #75A0FF;
-    padding-left: 40px;
+    padding-left: 115px;
     padding-top: 20px;
 }
 
@@ -292,7 +292,7 @@ html, body {
 .wireframe-header h3 {
     font-size: 33px;
     color: #75A0FF;
-    padding-left: 40px;
+    padding-left: 115px;
     padding-top: 20px;
 }
 
@@ -303,14 +303,14 @@ html, body {
 }
 
 .wireframe-image img {
-    width: 65%;
+    width: 75%;
     height: auto;
 }
 
 .design-header h3 {
     font-size: 33px;
     color: #75A0FF;
-    padding-left: 40px;
+    padding-left: 115px;
     padding-top: 20px;
 }
 
