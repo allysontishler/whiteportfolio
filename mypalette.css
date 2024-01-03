@@ -75,13 +75,14 @@ html, body {
     justify-content: center;
     align-items: center;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
 
 .image-section {
     flex: 1;
     padding: 20px;
     padding-left: 200px;
-    padding-bottom: 75px;
 }
 
 .image-section img {
@@ -101,7 +102,6 @@ html, body {
     font-weight: 600;
     max-width: 650px;
     color: #FF7FA5;
-    padding-top: 0;
 }
 
 .text-section h3 {
@@ -119,7 +119,6 @@ html, body {
 
 .text-section hr {
     padding: 20px;
-    padding-top: 0;
     margin: 0;
 }
 
