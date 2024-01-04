@@ -424,7 +424,7 @@ html, body {
     font-size: 20px;
 }
 
-.project-header {
+.reflection-header {
     flex: 1;
 }
 
@@ -452,4 +452,30 @@ html, body {
     width: 100%;
     justify-content: space-between;
     align-items: flex-start;
+}
+
+.container6 {
+    width: 100%;
+    background: #000000;
+}
+
+.getintouch h3 {
+    padding-left: 115px;
+    padding-top: 40px;
+    color: #ff97bc;
+    font-size: 30px;
+}
+
+.link-list ul {
+    list-style: none;
+    padding: 0;
+}
+
+.link-list li {
+    margin-bottom: 10px;
+}
+
+.link-list a {
+    text-decoration: none;
+    color: #ffffff;
 }
