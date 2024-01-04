@@ -275,8 +275,8 @@ html, body {
     font-size: 33px;
     color: #75A0FF;
     padding-left: 115px;
-    padding-top: 40px;
-    padding-bottom: 20px;
+    padding-top: 60px;
+    padding-bottom: 30px;
 }
 
 .map-image {
@@ -313,8 +313,8 @@ html, body {
     font-size: 33px;
     color: #75A0FF;
     padding-left: 115px;
-    padding-top: 20px;
-    padding-bottom: 40px;
+    padding-top: 30px;
+    padding-bottom: 60px;
 }
 
 .design-image {
