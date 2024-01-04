@@ -123,17 +123,20 @@ html, body {
     background: #E4F6FF;
 }
 
-.slide2 h2 {
-    font-weight: 600px;
-    font-size: 50px;
-    padding-top: 0;
-    color: #55c9ff;
+.center-header {
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.slide2 h3 {
+.center-header h2 {
+    font-weight: 600px;
+    font-size: 50px;
+    padding-top: 0;
+    color: #55c9ff;
+}
+
+.what-content h3 {
     align-items: flex-start;
     font-size: 30px;
     padding-left: 120px;
@@ -143,7 +146,7 @@ html, body {
     color: #21b2f6;
 }
 
-.slide2 h4 {
+.what-content h4 {
     align-items: flex-start;
     font-size: 23px;
     padding-left: 120px;
@@ -153,9 +156,9 @@ html, body {
     color: #97deff;
 }
 
-.slide2 p {
+.what-content p {
     align-items: flex-start;
-    font-size: 15px;
+    font-size: 20px;
     padding-left: 150px;
     padding-right: 150px;
     padding-bottom: 0;
