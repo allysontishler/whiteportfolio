@@ -394,7 +394,7 @@ html, body {
 .key-features h2 {
     font-size: 50px;
     padding-top: 50px;
-    color: #737373;
+    color: #000000;
     padding-left: 40px;
     font-weight: 600;
     padding-bottom: 50px;
@@ -415,9 +415,19 @@ html, body {
     padding-bottom: 40px;
 }
 
-.column3 h3 {
-    color: #737373;
+.column3-1 h3 {
+    color: #FF75A5;
     font-size: 30px;
+}
+
+.column3-2 h3 {
+    font-size: 30px;
+    color: #ffbe7a;
+}
+
+.column3-3 h3 {
+    font-size: 30px;
+    color: #75A0FF;
 }
 
 .column3 p {
@@ -430,7 +440,7 @@ html, body {
 
 .reflection-header h2 {
     margin: 0;
-    color: #737373;
+    color: #000000;
     font-size: 50px;
     font-weight: 600;
     padding-left: 40px;
