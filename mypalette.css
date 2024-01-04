@@ -446,3 +446,10 @@ html, body {
     padding-right: 40px;
     padding-top: 40px;
 }
+
+.reflection-section {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: flex-start;
+}
