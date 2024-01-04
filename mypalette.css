@@ -275,13 +275,15 @@ html, body {
     font-size: 33px;
     color: #75A0FF;
     padding-left: 115px;
-    padding-top: 20px;
+    padding-top: 40px;
+    padding-bottom: 20px;
 }
 
 .map-image {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding-bottom: 40px;
 }
 
 .map-image img {
@@ -312,12 +314,14 @@ html, body {
     color: #75A0FF;
     padding-left: 115px;
     padding-top: 20px;
+    padding-bottom: 40px;
 }
 
 .design-image {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding-bottom: 40px;
 }
 
 .design-image img {
