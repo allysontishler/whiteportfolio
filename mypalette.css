@@ -338,7 +338,7 @@ html, body {
     font-size: 33px;
     color: #FF75A5;
     padding-left: 115px;
-    padding-top: 50px;
+    padding-top: 75px;
 }
 
 .onboarding-image {
@@ -379,7 +379,7 @@ html, body {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-bottom: 40px;
+    padding-bottom: 50px;
 }
 
 .application-image img {
