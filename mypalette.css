@@ -385,3 +385,39 @@ html, body {
 .application-image img {
     width: 60%
 }
+
+.container6 {
+    width: 100%;
+    background: #000000;
+}
+
+.key-features h2 {
+    font-size: 33px;
+    padding-left: 115px;
+    padding-top: 50px;
+}
+
+
+.columns3 {
+    display: flex;
+    width: 100%
+}
+
+.column3 {
+    flex: 1;
+    padding: 10px;
+    margin: 0 5px;
+    text-align: center;
+    font-size: 33px;
+    padding-bottom: 40px;
+}
+
+.column3 h3 {
+    color: #FFFAD6;
+    font-size: 33px;
+}
+
+.column3 p {
+    color: #ffffff;
+    font-size: 20px;
+}
