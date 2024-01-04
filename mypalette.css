@@ -392,12 +392,12 @@ html, body {
 }
 
 .key-features h2 {
-    font-size: 33px;
+    font-size: 50px;
     padding-top: 50px;
-    color: #62423A;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    color: #737373;
+    padding-left: 40px;
+    font-weight: 600;
+    padding-bottom: 50px;
 }
 
 
@@ -416,10 +416,33 @@ html, body {
 }
 
 .column3 h3 {
-    color: #996A5E;
+    color: #737373;
     font-size: 30px;
 }
 
 .column3 p {
     font-size: 20px;
+}
+
+.project-header {
+    flex: 1;
+}
+
+.reflection-header h2 {
+    margin: 0;
+    color: #737373;
+    font-size: 50px;
+    font-weight: 600;
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-right: 200px;
+}
+
+.reflection-content {
+    flex: 2;
+    text-align: left;
+    margin-top: 0;
+    font-size: 20px;
+    padding-right: 40px;
+    padding-top: 40px;
 }
