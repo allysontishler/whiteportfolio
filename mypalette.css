@@ -460,7 +460,7 @@ html, body {
 }
 
 .getintouch h3 {
-    padding-left: 115px;
+    padding-left: 40px;
     padding-top: 40px;
     color: #ff97bc;
     font-size: 30px;
@@ -468,7 +468,8 @@ html, body {
 
 .link-list ul {
     list-style: none;
-    padding: 0;
+    padding-left: 40px;
+    padding-bottom: 40px;
 }
 
 .link-list li {
